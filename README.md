@@ -19,7 +19,7 @@ test_train_step2 is the number of data used for meta-training.
 
 ### SMD：
 Download the processed data form Google cloud to './SMD/'.
-[SMD Data](https://drive.google.com/file/d/1rv6NMgb2F3CubasCiUayNnrSQXNvNPGC/view?usp=sharing)。
+[SMD Data](https://drive.google.com/drive/folders/1H7J67sKOd1ogGa-IzgNw99WyPYJxyuYI?usp=share_link)。
 
 
 ### MSL：
